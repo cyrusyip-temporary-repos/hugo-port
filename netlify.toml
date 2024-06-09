@@ -1,5 +1,3 @@
-isinya kek gini
-
 [build]
   publish = "public"
   command = "hugo --gc --minify"
