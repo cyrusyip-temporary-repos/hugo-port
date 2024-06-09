@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: ""
+baseURL: "https://hugo-port-2.netlify.app/"
 title: meryzennn-portofolio
 paginate: 5
 theme: PaperMod
