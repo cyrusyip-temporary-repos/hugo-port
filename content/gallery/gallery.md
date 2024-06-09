@@ -7,7 +7,7 @@ draft:
 
 ---
 # Nothing | [exchange.art🔗](https://exchange.art/single/DbYsn2L8HXAXu6Wk7vJWpuRVgYLnatMJ4bpcLf6d5zdH)
-![Scenario 1: evil1final](/evil1final.png)
+![Scenario 1: evil1final](/images/evil1final.png)
 ---
 
 ---
